@@ -1,5 +1,6 @@
 venv
 house-prices-data
 auto+mpg
+logistic _regression/heart+disease
 .ipynb_checkpoints
 __pycache__
