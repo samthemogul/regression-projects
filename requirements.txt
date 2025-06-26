@@ -1,4 +1,6 @@
 numpy
-pandad
+pandas
 matplotlib
 scikit-learn
+seaborn
+joblib
