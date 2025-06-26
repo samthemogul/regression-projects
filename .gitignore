@@ -1,2 +1,5 @@
 venv
 house-prices-data
+auto+mpg
+.ipynb_checkpoints
+__pycache__
